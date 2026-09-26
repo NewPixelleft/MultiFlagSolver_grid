@@ -1,0 +1,3 @@
+C:\compiler\MSYS2\ucrt64\bin\cmake.exe -E rm -f CMakeFiles\FlagMazeSolver.dir/objects.a
+C:\compiler\MSYS2\ucrt64\bin\ar.exe qc CMakeFiles\FlagMazeSolver.dir/objects.a @CMakeFiles\FlagMazeSolver.dir\objects1.rsp
+C:\compiler\MSYS2\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\FlagMazeSolver.dir/objects.a -Wl,--no-whole-archive -o FlagMazeSolver.exe -Wl,--out-implib,libFlagMazeSolver.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FlagMazeSolver.dir\linkLibs.rsp

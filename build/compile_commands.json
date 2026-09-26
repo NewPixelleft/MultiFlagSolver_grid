@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/code/FlagMazeSolver/build",
+  "command": "C:\\compiler\\MSYS2\\ucrt64\\bin\\g++.exe   -g -std=c++23 -o CMakeFiles\\FlagMazeSolver.dir\\src\\main.cpp.obj -c D:\\code\\FlagMazeSolver\\src\\main.cpp",
+  "file": "D:/code/FlagMazeSolver/src/main.cpp",
+  "output": "CMakeFiles/FlagMazeSolver.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/code/FlagMazeSolver/build",
+  "command": "C:\\compiler\\MSYS2\\ucrt64\\bin\\g++.exe   -g -std=c++23 -o CMakeFiles\\FlagMazeSolver.dir\\src\\Grid.cpp.obj -c D:\\code\\FlagMazeSolver\\src\\Grid.cpp",
+  "file": "D:/code/FlagMazeSolver/src/Grid.cpp",
+  "output": "CMakeFiles/FlagMazeSolver.dir/src/Grid.cpp.obj"
+},
+{
+  "directory": "D:/code/FlagMazeSolver/build",
+  "command": "C:\\compiler\\MSYS2\\ucrt64\\bin\\g++.exe   -g -std=c++23 -o CMakeFiles\\FlagMazeSolver.dir\\src\\Solver.cpp.obj -c D:\\code\\FlagMazeSolver\\src\\Solver.cpp",
+  "file": "D:/code/FlagMazeSolver/src/Solver.cpp",
+  "output": "CMakeFiles/FlagMazeSolver.dir/src/Solver.cpp.obj"
+}
+]
